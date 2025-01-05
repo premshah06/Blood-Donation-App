@@ -35,7 +35,7 @@
 
 ---
 ```
-## 📂 Project Structure
+📂 Project Structure
 app/
 ├── src/
 │   ├── main/
@@ -52,8 +52,9 @@ app/
 ### Clone the Repository
 
 bash
-
+```
 git clone https://github.com/premshah06/Blood-Donation-App.git
-
+```
+```
 cd Blood-Donation-App
-
+```
