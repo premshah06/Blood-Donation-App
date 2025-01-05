@@ -34,20 +34,14 @@
 - **UI:** XML with modern Material Design principles
 
 ---
-
+'''
 ## 📂 Project Structure
 app/
-
 ├── src/
-
 │   ├── main/
-
 │   │   ├── java/com/example/bda2/ (Source Code)
-
 │   │   ├── res/ (Resources - Layouts, Drawables, etc.)
-
 │   │   ├── AndroidManifest.xml (App Configuration)
-
 ├── build.gradle (Build Configurations)
 
 --------------------------------------------------------------
