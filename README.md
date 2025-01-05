@@ -34,7 +34,7 @@
 - **UI:** XML with modern Material Design principles
 
 ---
-'''
+```
 ## 📂 Project Structure
 app/
 ├── src/
@@ -44,6 +44,7 @@ app/
 │   │   ├── AndroidManifest.xml (App Configuration)
 ├── build.gradle (Build Configurations)
 
+```
 --------------------------------------------------------------
 
 ## 🎯 Getting Started
