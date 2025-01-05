@@ -37,20 +37,16 @@
 
 ## 📂 Project Structure
 app/
-├── src/
 
+├── src/
 
 │   ├── main/
 
-
 │   │   ├── java/com/example/bda2/ (Source Code)
-
 
 │   │   ├── res/ (Resources - Layouts, Drawables, etc.)
 
-
 │   │   ├── AndroidManifest.xml (App Configuration)
-
 
 ├── build.gradle (Build Configurations)
 
@@ -63,7 +59,6 @@ app/
 bash
 
 git clone https://github.com/premshah06/Blood-Donation-App.git
-
 
 cd Blood-Donation-App
 
